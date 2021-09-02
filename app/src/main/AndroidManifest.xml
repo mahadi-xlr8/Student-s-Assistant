@@ -11,7 +11,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.StudentsAssistant">
-        <activity android:name=".HomePage"></activity>
+        <activity android:name=".AustInfo"></activity>
+        <activity android:name=".AiubInfo" />
+        <activity android:name=".AustDepartments" />
+        <activity android:name=".AiubDepartments" />
+        <activity android:name=".NsuInfo" />
+        <activity android:name=".BracInfo" />
+        <activity android:name=".DiuInfo" />
+        <activity android:name=".BuetInfo" />
+        <activity android:name=".NsuDepartments" />
+        <activity android:name=".BracDepartments" />
+        <activity android:name=".DiuDepartments" />
+        <activity android:name=".BuetDepartments" />
+        <activity android:name=".HomePage" />
         <activity android:name=".LoginPage">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
