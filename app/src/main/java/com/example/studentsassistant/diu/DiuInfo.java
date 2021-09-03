@@ -1,8 +1,10 @@
-package com.example.studentsassistant;
+package com.example.studentsassistant.diu;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.studentsassistant.R;
 
 public class DiuInfo extends AppCompatActivity {
 

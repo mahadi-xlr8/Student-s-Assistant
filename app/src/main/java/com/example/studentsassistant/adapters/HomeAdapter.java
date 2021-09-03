@@ -1,4 +1,4 @@
-package com.example.studentsassistant;
+package com.example.studentsassistant.adapters;
 import android.content.Context;
 import android.graphics.Color;
 import android.view.LayoutInflater;

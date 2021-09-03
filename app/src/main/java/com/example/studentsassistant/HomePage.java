@@ -7,6 +7,10 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.os.Bundle;
 
+import com.example.studentsassistant.adapters.HomeAdapter;
+import com.example.studentsassistant.diu.DiuDepartments;
+import com.example.studentsassistant.diu.DiuInfo;
+
 import java.util.ArrayList;
 import java.util.List;
 
